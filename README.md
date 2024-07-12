@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Golang-black?logo=go">
   <img src="https://img.shields.io/badge/.NET-black?logo=dotnet">
   <img src="https://img.shields.io/badge/Python-black?logo=python">
+  <img src="https://img.shields.io/badge/PHP-black?logo=php">
 </p>
 
 <h3>Frontend Frameworks & Tools</h3>
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/Vue.js-black?logo=vue.js">
   <img src="https://img.shields.io/badge/Svelte-black?logo=svelte">
   <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss">
+  <img src="https://img.shields.io/badge/Hydrogen-black?logo=shopify">
 </p>
 
 <h3>Backend</h3>
@@ -44,6 +46,8 @@
   <img src="https://img.shields.io/badge/SST-black?logo=sst">
   <img src="https://img.shields.io/badge/Hono-black?logo=hono">
   <img src="https://img.shields.io/badge/Flask-black?logo=flask">
+  <img src="https://img.shields.io/badge/WordPress-black?logo=wordpress">
+  <img src="https://img.shields.io/badge/Shopify-black?logo=shopify">
 </p>
 
 <h3>Databases</h3>
