@@ -1,5 +1,4 @@
-<h1 align="center">Hi , I'm Paul Cedrick</h1>
-<p style="color: #999; font-size: 1.2rem;" align="center">Product Engineer</p>
+<h1 align="center">Hello, I'm Paul Cedrick 👋</h1>
 
 <h2>About Me</h2>
 <p>I'm a product engineer from the Philippines with a strong foundation in software engineering. I absolutely love diving into new technologies, including AI, and pushing the boundaries of what's possible. My true passion lies in crafting scalable web applications using cutting-edge serverless technologies and building innovative products. As a full-stack developer with a knack for backend development, I focus on creating products that solve real-world problems and deliver exceptional user experiences. I'm always eager to learn something new every day and bring innovative solutions to life!</p>
