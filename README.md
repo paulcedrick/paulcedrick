@@ -6,13 +6,13 @@
 <div>
   <h2>Socials</h2>
   <p>You can reach out to me through the following channels</p>
-  <a href="https://www.linkedin.com/in/paulcedrick/">
+  <a href="https://www.linkedin.com/in/paulcedrick/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin">
   </a>
-  <a href="https://x.com/porukobayashi">
+  <a href="https://x.com/porukobayashi" target="_blank">
     <img src="https://img.shields.io/badge/X-black?logo=x">
   </a>
-  <a href="https://www.threads.net/@iam.kyuuu">
+  <a href="https://www.threads.net/@iam.kyuuu" target="_blank">
     <img src="https://img.shields.io/badge/Threads-black?logo=threads">
   </a>
 </div>
